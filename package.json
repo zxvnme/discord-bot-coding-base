@@ -1,0 +1,11 @@
+{
+  "name": "discord-bot-coding-base",
+  "description": "Node.js base for creating discord bots.",
+  "author": "zxvnme / johhnyhax",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "discord.js": "^11.3.2"
+  }
+}
