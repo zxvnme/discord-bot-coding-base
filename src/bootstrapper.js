@@ -4,8 +4,8 @@
 //               _ _           
 //    __ ___  __| (_)_ _  __ _     ___  ____ ____ ____
 //  / _/ _ \/ _` | | ' \/ _` |    |__] |__| [__  |___
-//  \__\___/\__,_|_|_||_\__, |    |__] |  | ___] |___          by zxvnme / johhnyhax
-//                      |___/                                          2018 (MIT License)
+//  \__\___/\__,_|_|_||_\__, |    |__] |  | ___] |___          by zxvnme
+//                      |___/                                          2019 (MIT License)
 
 const stringUtils = require('./stringutils.js')
 const packagejson = require('./../package.json')
